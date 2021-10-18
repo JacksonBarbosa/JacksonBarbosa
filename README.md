@@ -1,7 +1,7 @@
 # Hi there Jackson Barbosa😃🐱
 
 
-- 🔭  atualmente  estudo para ser front end
+- 🔭  atualmente  estudando 
 - 🌱 I’m currently learning Javascript,html,css,react
 - 🤔 Procuro o ser bom programador🐱‍👤
 - 📫 How to reach me: jackson.fc18@gmail.com
